@@ -5,16 +5,19 @@
 核心特色：
 🔹 智慧优选：严选开源/免费软件，拒绝臃肿与广告，只留纯粹体验。
 1、文件搜索
+<a href="[URL](https://anytxt.net.cn)" target="_blank" rel="noopener noreferrer">显示文本</a>
     
 1、AnyTXT Searcher 详情请戳官网https://anytxt.net.cn
     AnyTXT Searcher是一款免费的功能强大的本地文档搜索应用程序，它内置了功能强大的文档解析引擎，该引擎无需安装任何其他软件即可提取常用文档的文本，并结合了内置的高速索引系统来存储文本的元数据。AnyTXT Searcher在Windows 10、8、7等操作系统上运行。
 
 
-序号	软件/工具名称	功能介绍	费用	官方网址
+
 1	quicker	WIN系统办公效率软件，软件主打解放双手，一键操作，将复杂流程简单化，可自定义动各种作	免费/vip 59/年	https://getquicker.net/
 			动作分享：金额数字添加千分位并补零	https://getquicker.net/Sharedaction?code=b0893b54-4120-4fb8-3a30-08dda20f48c5
+   
 2	方方格子	一款功能齐全的Excel插件工具。	免费版/一年45元/	www.ffcell.com
 3	Everything	基于名称快速搜索、定位文件和文件夹。	免费	https://www.voidtools.com/zh-cn/
+
 4	Snipaste	Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上，你还可以将剪贴板里的文字或者颜色信息转化为图片窗口，并且将它们进行缩放、旋转、翻转。	免费/专业版	https://zh.snipaste.com/
 5	天若OCR	文字、表格OCR识别。	免费/专业版￥59（可绑定三台电脑）	https://ocr.tianruo.net/
 6	白描	手机图片或者拍照OCR文字识别软件/网页版可识别Excel、批量识别PDF文档，支持安卓及苹果手机。	免费版每天5次/18元/40元/小程序20元	https://baimiao.uzero.cn/
