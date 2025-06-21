@@ -98,7 +98,7 @@
   <div style="border: 1px solid #E0E0E0; border-radius: 6px; padding: 12px;">
     <strong>Snipaste</strong><br>
     <span style="color: #666; font-size: 0.9em;">专业截图工具，支持取色器、贴图置顶、马赛克/箭头标注</span><br>
-    🟡 免费版 | 🎨 像素级控制 | 🔗 [官网](https://zh.snipaste.com/)
+    🟢  免费版 | 🎨 像素级控制 | 🔗 [官网](https://zh.snipaste.com/)
   </div>
   
   <!-- 白描 -->
@@ -108,5 +108,17 @@
     🟢 免费 | 📱 多端同步 | 🔗 [官网](https://baimiao.uzero.cn/)
   </div>
 </div>
+
+
+### <span style="display: inline-block; background: #F0F5FF; padding: 6px 12px; border-radius: 4px; color: #3A5FCD; margin: 15px 0 10px;">🔧win系统管理工具</span>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 15px;">
+  <!-- EnergyStarX 能源之星X -->
+  <div style="border: 1px solid #E0E0E0; border-radius: 6px; padding: 12px;">
+    <strong>EnergyStarX 能源之星X</strong><br>
+    <span style="color: #666; font-size: 0.9em;">为电池续航而生的智能管理工具，基于开源项目EnergyStar开发，是一个轻量级的图形界面工具。它巧妙地利用Windows 11内置的EcoQos API（也就是“效率模式”），自动限制后台应用的CPU、内存等资源占用，从而减少耗电和发热问题。亮点是它不会影响前台应用，比如你玩游戏或办公时，前台程序照样流畅运行，体验无缝切换！ 免费</span><br>
+    🟢 免费版 | 🎨 笔记本电脑的救星 | 🔗 [微软商店版](https://apps.microsoft.com/detail/9nf7jtb3b17p?hl=zh-CN&gl=CN)</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [开源仓库](https://github.com/JasonWei512/EnergyStarX/releases/)
+  </div>
 
 
