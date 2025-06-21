@@ -7,18 +7,18 @@
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 20px 0;">
   <div style="background: #F5F0FF; padding: 12px; border-radius: 6px;">
     <strong>🔍 智慧优选</strong><br>严选开源/免费工具
-  </div>
+ 
   <div style="background: #F5F0FF; padding: 12px; border-radius: 6px;">
     <strong>⚡ 力量加持</strong><br>性能与稳定性测试
-  </div>
+ 
   <div style="background: #F5F0FF; padding: 12px; border-radius: 6px;">
     <strong>🎨 美学设计</strong><br>人机交互优化
   </div>
-</div>
+
 
 ---
 
-## <span style="color: #5D3FD3; font-weight: 600;">🗃️ 网格化工具库  Ctrl+鼠标左键点击=新窗口打开链接</span>
+## <span style="color: #5D3FD3; font-weight: 600;">🗃️ 软件宝箱工具库  |   Ctrl+鼠标左键点击 = 新窗口打开链接</span>
 
 ### <span style="display: inline-block; background: #F0F5FF; padding: 6px 12px; border-radius: 4px; color: #3A5FCD; margin: 15px 0 10px;">🔍 文件管理</span>
 
