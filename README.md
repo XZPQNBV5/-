@@ -5,7 +5,7 @@
 核心特色：
 🔹 智慧优选：严选开源/免费软件，拒绝臃肿与广告，只留纯粹体验。
 1、文件搜索
-<a href="[URL](https://anytxt.net.cn)" target="_blank" rel="noopener noreferrer">显示文本</a>
+<a href="URLhttps://anytxt.net.cn" target="_blank" rel="noopener noreferrer">显示文本</a>
     
 1、AnyTXT Searcher 详情请戳官网https://anytxt.net.cn
     AnyTXT Searcher是一款免费的功能强大的本地文档搜索应用程序，它内置了功能强大的文档解析引擎，该引擎无需安装任何其他软件即可提取常用文档的文本，并结合了内置的高速索引系统来存储文本的元数据。AnyTXT Searcher在Windows 10、8、7等操作系统上运行。
