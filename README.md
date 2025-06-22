@@ -1,5 +1,8 @@
 # <div style="color: #5D3FD3; border-bottom: 2px solid #E0E0E0; padding-bottom: 8px;">🏛️ 雅典娜的宝箱</div>
-### <span style="color: #7F7F7F;">Athena's Chest | 智慧与力量的软件典藏</span>
+### <span style="color: #7F7F7F;">Athena's Chest | 智慧与力量的软件典藏 | 打工人必备
+![29DC4490](https://github.com/user-attachments/assets/dba3e448-fd75-4b68-b2df-2c5f21b68fbd)</span>
+ 
+
 
 ---
 
