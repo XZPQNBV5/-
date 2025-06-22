@@ -100,6 +100,14 @@
     <span style="color: #666; font-size: 0.9em;">专业截图工具，支持取色器、贴图置顶、马赛克/箭头标注</span><br>
     🟢  免费版 | 🎨 像素级控制 | 🔗 [官网](https://zh.snipaste.com/)
   </div>
+
+<!-- ScreenToGif -->
+  <div style="border: 1px solid #E0E0E0; border-radius: 6px; padding: 12px;">
+    <strong>ScreenToGif</strong><br>
+    <span style="color: #666; font-size: 0.9em;">GIF/视频录制制作软件</span><br>
+    🟢 免费 | 📦 60+MB | 🔗 [官网](https://www.screentogif.com/)</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [开源仓库](https://github.com/NickeManarin/ScreenToGif/releases)
+  </div>
   
   <!-- 白描 -->
   <div style="border: 1px solid #E0E0E0; border-radius: 6px; padding: 12px;">
